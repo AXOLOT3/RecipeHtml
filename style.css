@@ -1,0 +1,51 @@
+.title {
+    font-weight: bold;
+    text-align: center
+}
+
+.title.inrecipe {
+    color: green;
+}
+
+.title.outrecipe {
+    color: orange;
+}
+
+p {
+    background-color: coral;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ul {
+    background-color: yellow;
+}
+
+.ul .li {
+    font-size: small;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+}
+
+.ol {
+    background-color: rgb(238, 181, 181);
+    color: rgb(17, 117, 117);
+}
+
+.ol .li {
+    font-size: larger;
+}
+
+#desc {
+    color: coral;
+}
+
+#ingrediants {
+    color:gold;
+}
+
+#steps {
+    color: rgb(17, 117, 117);
+}
